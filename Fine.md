@@ -1,4 +1,3 @@
-![il_fullxfull 4618057718_hux2](https://github.com/Myrkridia/Notes-101/assets/88998826/47539fd1-fe62-42eb-82be-6a4228322cc2)
 
 # FINE
 
