@@ -1,5 +1,5 @@
 
-# FINE
+# Firmware revival
 
 This method is what I used for after turnng an old mac book (2011) into a Kali Linux machine via partitioning and installing the needed firmware for the Linux machine to use wifi.
 
